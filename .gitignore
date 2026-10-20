@@ -1,0 +1,14 @@
+# python virtual environment
+.venv/
+
+# jupyter temorary files
+.ipynb_checkpoints/
+
+# python cache files
+__pycache__/
+*.py[cod]
+
+# environment variables and secrets 
+.env
+.env.*
+!.env.example
